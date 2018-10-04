@@ -1,0 +1,31 @@
+body{
+	background: #C0C0C0;
+	font-size: 17px;
+	font-family: "Arial";
+
+
+
+}
+
+p.negrito{
+
+	 font-weight: bold;
+
+}
+
+
+hr{
+	    border-top: 1px solid black;
+
+}
+
+footer{
+	text-align: center;
+}
+
+#imagem{
+	width: 150px;
+	height: 170px;
+	
+}
+
